@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConvertApp</string>
+    <string name="hints">Enter weight in Kilos</string>
+    <string name="button">Convert kilos to pounds</string>
+    <string name="pounds">Pounds</string>
+</resources>
